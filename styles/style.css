@@ -1,0 +1,47 @@
+body {
+  font-family: "Commissioner", sans-serif;
+  font-style: normal;
+  font-variation-settings: "slnt" 0, "FLAR" 0, "VOLM" 0;
+  background-color: white;
+  color: #1a1a1a;
+  margin-top: 40px;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+h1 {
+  text-align: center;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #cccccc;
+  text-align: center;
+}
+
+img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.button {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+
+.add-button {
+  background-color: #3B4649;
+  margin-top: 10px;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 13px 27px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
